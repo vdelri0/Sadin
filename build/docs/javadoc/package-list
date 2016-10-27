@@ -1,0 +1,14 @@
+controlador
+dao
+dao.datosBasicos
+modelo
+modelo.vo
+modelo.vo.datosBasicos
+utilidades
+vista
+vista.datosBasicos
+vista.datosBasicos.bodegas
+vista.datosBasicos.cajeros
+vista.datosBasicos.controlConsecutivos
+vista.datosBasicos.lineasDeArticulos
+vista.datosBasicos.proveedores
